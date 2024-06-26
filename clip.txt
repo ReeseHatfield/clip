@@ -1,0 +1,4 @@
+multi
+line 
+thing I am
+copying in
